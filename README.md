@@ -1,14 +1,18 @@
 # Escape the Cop! 🚓
 
+![Gameplay screenshot](./screenshot.png)
+
+![Gameplay GIF](./gameplay.gif)
+
 A small 3D game built in **Unity** (C#) as part of a university exam project.
 The goal: collect all the coins scattered around the level while avoiding a cop that starts
 chasing you once the tutorial phase ends.
 
-> ⚠️ This repository contains the **C# scripts only** (see [Repository Contents](#repository-contents) below for why, and what's missing).
+>  This repository contains the **C# scripts only** (see [Repository Contents](#repository-contents) below for why, and what's missing).
 
 ---
 
-## 🎮 Gameplay
+## Gameplay
 
 1. The game starts in a **locked** state:
    - Coins are visible but not collectible
@@ -24,7 +28,7 @@ chasing you once the tutorial phase ends.
 5. **Win** by collecting all the coins.
    **Lose** if caught by the enemy after gameplay has been unlocked.
 
-## 🕹️ Controls
+## Controls
 
 | Input | Action |
 |---|---|
@@ -37,7 +41,7 @@ Input is handled entirely through Unity's **New Input System**.
 
 ---
 
-## 🧩 Technical Highlights
+## Technical Highlights
 
 - **Rigidbody-based movement** with smooth rotation toward the movement direction, mapped to camera-relative space
 - **Jump system** with coyote time and jump buffering for more forgiving, responsive platforming
@@ -49,7 +53,7 @@ Input is handled entirely through Unity's **New Input System**.
 
 ---
 
-## 📂 Repository Contents
+## Repository Contents
 
 For file size reasons, only the **C# scripts** have been uploaded — not the full Unity project
 (scenes, prefabs, models, audio, `Assets`/`Packages`/`ProjectSettings` folders, etc.).
@@ -73,7 +77,7 @@ This repo is meant to showcase the **code and architecture**, not to be cloned a
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Engine:** Unity (LTS)
 - **Language:** C#
@@ -83,12 +87,12 @@ This repo is meant to showcase the **code and architecture**, not to be cloned a
 
 ---
 
-## 📸 Media
-
-▶️ [Watch the gameplay walkthrough (3 min)](https://youtu.be/BQk8lL8k5kI)
+## Media
+- [Watch the gameplay walkthrough (3 min)](https://youtu.be/BQk8lL8k5kI)
+- [Download Windows build (v1.0)](https://github.com/Giorgia9806/Escape-The-Cop-3D-Simulation/releases/tag/v1.0)
 
 ---
 
-## 👤 Author
+## Author
 
-Developed by Giorgia — university project.
+Developed by Giorgia Baiardo — university project.
