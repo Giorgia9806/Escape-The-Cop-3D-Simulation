@@ -1,4 +1,4 @@
-# Escape the Cop! 🚓
+# Escape the Cop!
 
 ![Gameplay screenshot](./screenshot.png)
 
