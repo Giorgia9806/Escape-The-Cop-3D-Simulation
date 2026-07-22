@@ -12,7 +12,7 @@ A small 3D game built in **Unity** (C#) as part of a university exam project.
 The goal: collect all the coins scattered around the level while avoiding a cop that starts
 chasing you once the tutorial phase ends.
 
-> Want to play it? Grab the ready-to-run Windows build from the [Releases page](https://github.com/Giorgia9806/Escape-The-Cop-3D-Simulation/releases/tag/v1.0) — no Unity installation needed.
+> Want to play it? Here you can find the ready-to-run Windows build: [Releases page](https://github.com/Giorgia9806/Escape-The-Cop-3D-Simulation/releases/tag/v1.0) - no Unity installation needed.
 
 ---
 
