@@ -1,14 +1,18 @@
 # Escape the Cop!
 
-![Gameplay screenshot](./screenshot.png)
+<p align="center">
+  <img src="./screenshot.png" alt="Gameplay screenshot" width="700"/>
+</p>
 
-![Gameplay GIF](./gameplay.gif)
+<p align="center">
+  <img src="./gameplay.gif" alt="Gameplay GIF" width="700"/>
+</p>
 
 A small 3D game built in **Unity** (C#) as part of a university exam project.
 The goal: collect all the coins scattered around the level while avoiding a cop that starts
 chasing you once the tutorial phase ends.
 
->  This repository contains the **C# scripts only** (see [Repository Contents](#repository-contents) below for why, and what's missing).
+> Want to play it? Grab the ready-to-run Windows build from the [Releases page](https://github.com/Giorgia9806/Escape-The-Cop-3D-Simulation/releases/tag/v1.0) — no Unity installation needed.
 
 ---
 
@@ -55,9 +59,11 @@ Input is handled entirely through Unity's **New Input System**.
 
 ## Repository Contents
 
-For file size reasons, only the **C# scripts** have been uploaded — not the full Unity project
-(scenes, prefabs, models, audio, `Assets`/`Packages`/`ProjectSettings` folders, etc.).
-This repo is meant to showcase the **code and architecture**, not to be cloned and run as-is.
+This repository contains the **C# scripts** and documentation for the project. The full Unity
+project folder (scenes, prefabs, models, audio, `Assets`/`Packages`/`ProjectSettings`) isn't
+included here for file size reasons — but a ready-to-play **Windows build is available in the
+[Releases section](https://github.com/Giorgia9806/Escape-The-Cop-3D-Simulation/releases/tag/v1.0)**,
+so you can actually run and play the game without needing the source project.
 
 | Script | Responsibility |
 |---|---|
@@ -88,6 +94,7 @@ This repo is meant to showcase the **code and architecture**, not to be cloned a
 ---
 
 ## Media
+
 - [Watch the gameplay walkthrough (3 min)](https://youtu.be/BQk8lL8k5kI)
 - [Download Windows build (v1.0)](https://github.com/Giorgia9806/Escape-The-Cop-3D-Simulation/releases/tag/v1.0)
 
